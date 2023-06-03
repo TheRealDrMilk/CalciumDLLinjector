@@ -1,2 +1,2 @@
 Fixed a bug that would crash the injector if you used the same DLL twice without selecting it again.
-Update 0.0.1-B-0.02
+Update 0.0.1-B-0.0.2
